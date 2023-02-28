@@ -5,7 +5,7 @@ withDefaults(defineProps<{
   showForm: boolean,
   toggleForm: () => void
 }>(), {
-  name: 'Vinay',
+  name: 'John',
   showForm: false
 })
 
