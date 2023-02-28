@@ -13,7 +13,7 @@ withDefaults(defineProps<{
 // defineProps({
 //   name: {
 //     type: String,
-//     default: 'Vinay'
+//     default: 'John'
 //   }
 // })
 
